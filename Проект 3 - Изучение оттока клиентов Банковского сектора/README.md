@@ -19,3 +19,5 @@ KMeans, Machine Learning, дендрограмма, RandomForestClassifier, Logi
 Навыки которые использовались при решении проекта:
 
 `Tableau` | `Python` | `Pandas` | `Scikit-learn` | `машинное обучение` | `классификация` | `кластеризация`|
+
+Статуса проекта: `закончен`
